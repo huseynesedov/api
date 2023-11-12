@@ -501,6 +501,19 @@
           "del": "",
           "count": 1
       }  
-  ]
+  ],
+"home3":[{
+    "id": "11",
+    "catogory":"scooter",
+    "title": "Practico Pro 500",
+    "src": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-a.jpg",
+    "src2": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-b.jpg",
+    "src3": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-c.jpg",
+    "src4": "https://websitedemos.net/electric-scooter-04/wp-content/uploads/sites/1113/2022/07/product-04-d.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+    "price": "$699.00",
+    "del": "",
+    "count": 1
+}]
 
 }
